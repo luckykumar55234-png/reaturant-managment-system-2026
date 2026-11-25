@@ -1,0 +1,29 @@
+[
+    {
+        "id": "4000000001",
+        "order_id": "1795316201",
+        "order_type": "Dine In",
+        "booking_id": null,
+        "table_id": null,
+        "customer_name": "Rahul",
+        "customer_phone": "7412803593",
+        "people": null,
+        "items": [
+            {
+                "id": "201",
+                "name": "Margherita Pizza",
+                "price": 199,
+                "quantity": 3,
+                "amount": 597,
+                "line_total": 597
+            }
+        ],
+        "date": "2026-11-21 20:54:21",
+        "subtotal": 597,
+        "discount_percent": 10.0,
+        "discount": 59.7,
+        "gst": 26.86,
+        "total": 564.16,
+        "payment": "Cash"
+    }
+]

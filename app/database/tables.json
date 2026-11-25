@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "table_number": 1,
+        "category": "Family",
+        "seats": 6,
+        "status": "Booked"
+    },
+    {
+        "id": "2",
+        "table_number": 2,
+        "category": "Couple",
+        "seats": 2,
+        "status": "Available"
+    },
+    {
+        "id": "3",
+        "table_number": 3,
+        "category": "Family",
+        "seats": 6,
+        "status": "Available"
+    },
+    {
+        "id": "4",
+        "table_number": 4,
+        "category": "VIP",
+        "seats": 8,
+        "status": "Available"
+    },
+    {
+        "id": "5",
+        "table_number": 5,
+        "category": "Family",
+        "seats": 6,
+        "status": "Booked"
+    },
+    {
+        "id": "6",
+        "table_number": 6,
+        "category": "Group",
+        "seats": 12,
+        "status": "Booked"
+    },
+    {
+        "id": "7",
+        "table_number": 7,
+        "category": "VIP",
+        "seats": 8,
+        "status": "Available"
+    },
+    {
+        "id": "8",
+        "table_number": 8,
+        "category": "Group",
+        "seats": 12,
+        "status": "Available"
+    },
+    {
+        "id": "9",
+        "table_number": 9,
+        "category": "Family",
+        "seats": 6,
+        "status": "Available"
+    },
+    {
+        "id": "10",
+        "table_number": 10,
+        "category": "Group",
+        "seats": 12,
+        "status": "Available"
+    }
+]

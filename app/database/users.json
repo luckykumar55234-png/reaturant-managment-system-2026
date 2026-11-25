@@ -1,0 +1,42 @@
+[
+    {
+        "username": "lucky",
+        "password": "Lucky123",
+        "role": "Admin",
+        "status": "Active"
+    },
+    {
+        "username": "rahul",
+        "password": "Rahul123",
+        "role": "Staff",
+        "status": "Active",
+        "date": "2026-11-21",
+        "time": "17:49:44.494096"
+    },
+    {
+        "username": "amit123",
+        "password": "Amit123",
+        "role": "Staff",
+        "status": "Active",
+        "date": "2026-11-21",
+        "time": "18:02:13.897995"
+    },
+    {
+        "staff_id": "ST101",
+        "username": "rohit",
+        "password": "Rohit123",
+        "role": "Staff",
+        "status": "Active",
+        "date": "2026-11-21",
+        "time": "19:23:41.630207"
+    },
+    {
+        "staff_id": "ST102",
+        "username": "abc",
+        "password": "Abc123",
+        "role": "Staff",
+        "status": "Active",
+        "date": "2026-11-22",
+        "time": "21:28:28.987943"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "8000000001",
+        "table_id": "1001",
+        "staff_id": "ST101",
+        "customer_name": "ravi",
+        "customer_phone": "7412803593",
+        "people": 4,
+        "date": "2026-11-21",
+        "time": "19:25:30.579399",
+        "status": "Active"
+    },
+    {
+        "id": "8000000002",
+        "table_id": "1002",
+        "staff_id": "ST102",
+        "customer_name": "xyz",
+        "customer_phone": "9865423233",
+        "people": 2,
+        "date": "2026-11-22",
+        "time": "21:31:56.502090",
+        "status": "Active"
+    },
+    {
+        "id": "8000000003",
+        "table_id": "1008",
+        "staff_id": "ST102",
+        "customer_name": "John",
+        "customer_phone": "1234123412",
+        "people": 30,
+        "date": "2026-11-23",
+        "time": "21:46:57.063758",
+        "status": "Active"
+    },
+    {
+        "booking_id": "8000000004",
+        "staff_name": "rahul",
+        "table_id": "5",
+        "table_number": 5,
+        "seats": 6,
+        "customer_name": "wer",
+        "phone": "1234123412",
+        "people": 6,
+        "date": "2026-11-23",
+        "time": "22:42:31",
+        "status": "Active"
+    },
+    {
+        "booking_id": "8000000005",
+        "staff_name": "rahul",
+        "table_id": "6",
+        "table_number": 6,
+        "seats": 12,
+        "customer_name": "rohit",
+        "phone": "7412803593",
+        "people": 1,
+        "date": "2026-11-23",
+        "time": "23:00:22",
+        "status": "Active"
+    },
+    {
+        "booking_id": "8000000006",
+        "staff_name": "rahul",
+        "table_id": "1",
+        "table_number": 1,
+        "seats": 6,
+        "customer_name": "riya",
+        "phone": "7412803593",
+        "people": 6,
+        "date": "2026-11-23",
+        "time": "23:01:29",
+        "status": "Active"
+    }
+]
